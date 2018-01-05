@@ -1,6 +1,6 @@
 package com.example.stream;
 
-public class Address {
+public class Address { 
 	
 	private String street;
 	
